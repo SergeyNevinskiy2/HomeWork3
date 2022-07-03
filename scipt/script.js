@@ -7,22 +7,22 @@ function sum() {
    const result = num1 + num2;
    console.log(`${num1} + ${num2} = ${result}`)
 }
-sum()
+sum();
 
 function sub() {
    const result = num1 - num2;
    console.log(`${num1} - ${num2} = ${result}`)
 }
-sub()
+sub();
 
 function div() {
    const result = num1 / num2;
    console.log(`${num1} / ${num2} = ${result}`)
 }
-div()
+div();
 
 function mult() {
    const result = num1 * num2;
    console.log(`${num1} * ${num2} = ${result}`)
 }
-mult()
+mult();
